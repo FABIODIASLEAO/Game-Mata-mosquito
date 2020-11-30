@@ -2,7 +2,7 @@
     <img alt ="jogo Mata-Mosquito" title="Mata-mosquito" src="Game_mata-mosquito/imagens/game.png" >
 </h1>
 
-<h1 O game mata mosquito é um jogo passa tempo...></h1> 
+<h1>O game mata mosquito é um jogo passa tempo...</h1> 
 <p align="center">
 
 
