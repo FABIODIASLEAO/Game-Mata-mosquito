@@ -6,7 +6,6 @@
 <p align="center">
 
 
-  <a href="#memo-licença">Licença</a>
 </p>
 ## Tecnologias
 
