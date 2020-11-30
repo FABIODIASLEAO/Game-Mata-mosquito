@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt ="jogo Mata-Mosquito" title="Mata-mosquito" src="Game_mata-mosquito/imagens/game.png" >
+    <img alt ="jogo Mata-Mosquito" title="Mata-mosquito" src="Game_mata-mosquito/imagens/game.png"width="40%" >
 </h1>
 
 <h1>O game mata mosquito é um jogo passa tempo...</h1> 
@@ -7,7 +7,7 @@
 
 
 </p>
-## Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
