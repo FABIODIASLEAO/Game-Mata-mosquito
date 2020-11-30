@@ -1,6 +1,6 @@
 body {
    background: url("imagens/background.jpg") no-repeat;
-   background-size: 210vh 100vh;
+   background-size: 230vh 130vh;
 }
 
 .mosquito1 {
@@ -48,13 +48,13 @@ body {
 }
 
 .col img {
-   margin-top: 10px;
-   width: 250px;
+
+   width: 450px;
 }
 
 .row {
-   margin-top: 5px;
-   font-size: 80px;
+
+   font-size: 5px;
    font-family: cursive;
    color: rgb(224, 222, 226);
 }
