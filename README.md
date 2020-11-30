@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="jogo Mata-Mosquito" title="Mata-mosquito" src=".imagens/game.png" />
+    <img alt="jogo Mata-Mosquito" title="Mata-mosquito" src=".Game_mata-mosquito/imagens/game.png" />
 </h1>
 
 <p align="center">
