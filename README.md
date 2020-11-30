@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"  width: 100px , height: 100px>
     <img alt="jogo Mata-Mosquito" title="Mata-mosquito" src="Game_mata-mosquito/imagens/game.png" />
 </h1>
 
